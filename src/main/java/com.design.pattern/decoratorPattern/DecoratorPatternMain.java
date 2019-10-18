@@ -22,4 +22,6 @@ public class DecoratorPatternMain {
         System.out.println("\nRectangle of red border");
         redRectangle.draw();
     }
+
+
 }
